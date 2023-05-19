@@ -1,0 +1,41 @@
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe.config
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\bin\Debug\StreetRacer.pdb
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\obj\Debug\StreetRacer.Properties.Resources.resources
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.GenerateResource.cache
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.CoreCompileInputs.cache
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\obj\Debug\StreetRacer.exe
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\obj\Debug\StreetRacer.pdb
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\obj\Debug\StreetRacer.GameForm.resources
+C:\Users\79312\Documents\2 курс\Программирование на ЯВУ\Курсовая Работа\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.AssemblyReference.cache
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe.config
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\bin\Debug\StreetRacer.pdb
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.AssemblyReference.cache
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\obj\Debug\StreetRacer.GameForm.resources
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\obj\Debug\StreetRacer.Properties.Resources.resources
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.GenerateResource.cache
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.CoreCompileInputs.cache
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\obj\Debug\StreetRacer.exe
+C:\Users\istomin\Downloads\StreetRacer\StreetRacer\obj\Debug\StreetRacer.pdb
+C:\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe.config
+C:\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe
+C:\StreetRacer\StreetRacer\bin\Debug\StreetRacer.pdb
+C:\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.AssemblyReference.cache
+C:\StreetRacer\StreetRacer\obj\Debug\StreetRacer.GameForm.resources
+C:\StreetRacer\StreetRacer\obj\Debug\StreetRacer.Properties.Resources.resources
+C:\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.GenerateResource.cache
+C:\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.CoreCompileInputs.cache
+C:\StreetRacer\StreetRacer\obj\Debug\StreetRacer.exe
+C:\StreetRacer\StreetRacer\obj\Debug\StreetRacer.pdb
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe.config
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\bin\Debug\StreetRacer.exe
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\bin\Debug\StreetRacer.pdb
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.AssemblyReference.cache
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.SuggestedBindingRedirects.cache
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.GameForm.resources
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.Properties.Resources.resources
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.GenerateResource.cache
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.csproj.CoreCompileInputs.cache
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.exe
+C:\Users\istomin\OneDrive\Прога\2 курс 3 семестр (C++, C#)\StreetRacer\StreetRacer\obj\Debug\StreetRacer.pdb
